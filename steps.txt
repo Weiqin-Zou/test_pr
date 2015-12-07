@@ -1,0 +1,5 @@
+#1 用weiqinzou帐号先fork。
+#2 在本地上用git clone克隆下来
+   git clone git@github.com:weiqinzou/test_pr.git
+#3 多做几次commit
+#4 多做几次pr
