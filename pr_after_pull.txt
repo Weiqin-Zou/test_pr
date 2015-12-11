@@ -13,3 +13,7 @@ dont miss this contri again, this is from zouxiaoyu
 1. make 3 commits before weiqinzou ask for pr merge
 2. this is the 2nd commits from zouxiaoyu
 3. it's weiqinzou's turn to do some commits
+#是不是别人提pr后到merge期间，主要是commit到src repo中的commit，都会按照时间顺序给放进去，
+#我的意思是，是不是pr后别人的commit是跟pr里面的commits做时间对比然后决定先后顺序的？
+#所以，明天我pr之后，是不是就努力将这这里的commits push进去。
+#然后，pr那边再去做一个commit，最后，再去merge，看一下这里面的顺序。
