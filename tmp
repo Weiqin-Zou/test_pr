@@ -9,6 +9,5 @@ ok,again contri from weiqinzou
 #the 2nd one will stay in the local without pushed today, but will push tomorrow
 #weiqinzou perform commit again
 first, i add some lines
-such as line 1
-and this is line 2
-
+then I delete the line 1 and line 2
+and then i add a line 3
