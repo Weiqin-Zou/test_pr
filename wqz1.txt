@@ -4,3 +4,4 @@ do a commit again
 if I closed with some commits.
 then i commit again, and then i pull request
 will my previors commits in closed pr appear again in the new pr?
+commit after zouxiaoyu commit
