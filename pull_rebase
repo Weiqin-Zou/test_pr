@@ -6,3 +6,4 @@ it seems that use git pull --rebase will not explicitly generate a merge log
 so what about git pull?
 only use git pull yet cant generate merge log
 what about first git fetch and then git merge?
+git fetch and git merge origin/master still cant generate a merge log. so when the merge log will happened?only PR?
