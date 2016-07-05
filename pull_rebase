@@ -5,3 +5,4 @@ the only thing you should do is to publish papers
 it seems that use git pull --rebase will not explicitly generate a merge log
 so what about git pull?
 only use git pull yet cant generate merge log
+what about first git fetch and then git merge?
