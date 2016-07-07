@@ -15,3 +15,6 @@ adfd zouxiaoyu
 I commit yes!
 commit again by zouxiaoyu after zouweiqin's pr
 can i commit again without merge pr pull?
+
+now，I create a branch from the server。but I have no local branch。
+can git pull fetch the branch to the local and create a branch？
