@@ -10,3 +10,4 @@
 #Let's to check whether the working dir will automatically change to keep consistent with the remote branch.
 
 use a new clone to test the machnism of pull and fetch
+again test for fetch specific branch
