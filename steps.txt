@@ -8,3 +8,5 @@
 #Yes, you can just use git push pushAbranch origin to push the pushAbranch into the remote origin server.
 #Next, Let's do some commits in the server, and use git fetch origin to see what will happen.
 #Let's to check whether the working dir will automatically change to keep consistent with the remote branch.
+
+use a new clone to test the machnism of pull and fetch
