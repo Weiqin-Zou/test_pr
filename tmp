@@ -19,3 +19,5 @@ can i commit again without merge pr pull?
 now，I create a branch from the server。but I have no local branch。
 can git pull fetch the branch to the local and create a branch？
 we can we up!
+fetch will fetch all branches's data?
+seems no fetch branchXXX cmd but git fetch origin
