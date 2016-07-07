@@ -5,3 +5,6 @@
 #4 多做几次pr
 #use commit log to close an issue
 #I want to push a local branch which not exists in the remote server.
+#Yes, you can just use git push pushAbranch origin to push the pushAbranch into the remote origin server.
+#Next, Let's do some commits in the server, and use git fetch origin to see what will happen.
+#Let's to check whether the working dir will automatically change to keep consistent with the remote branch.
