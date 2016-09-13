@@ -5,3 +5,6 @@
 #4 多做几次pr
 #use commit log to close an issue
 change one line in the master branch for pull
+
+#this time, I want to know if a commit is unique to a branch which is not the main branch. 
+will it appear in the repo's commits list if once we use the github api to retrieve a repo's commits?
